@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ticket-admin-front/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ticket-admin-front/static/js/main.bc7feeaf.chunk.js",
+    "main.js.map": "/ticket-admin-front/static/js/main.bc7feeaf.chunk.js.map",
+    "runtime-main.js": "/ticket-admin-front/static/js/runtime-main.2c7ffcb6.js",
+    "runtime-main.js.map": "/ticket-admin-front/static/js/runtime-main.2c7ffcb6.js.map",
+    "static/js/2.d485e94c.chunk.js": "/ticket-admin-front/static/js/2.d485e94c.chunk.js",
+    "static/js/2.d485e94c.chunk.js.map": "/ticket-admin-front/static/js/2.d485e94c.chunk.js.map",
+    "static/js/3.c8de58dc.chunk.js": "/ticket-admin-front/static/js/3.c8de58dc.chunk.js",
+    "static/js/3.c8de58dc.chunk.js.map": "/ticket-admin-front/static/js/3.c8de58dc.chunk.js.map",
+    "index.html": "/ticket-admin-front/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ticket-admin-front/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d485e94c.chunk.js.LICENSE.txt": "/ticket-admin-front/static/js/2.d485e94c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ticket-admin-front/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c7ffcb6.js",
+    "static/js/2.d485e94c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bc7feeaf.chunk.js"
+  ]
+}
